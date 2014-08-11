@@ -1,0 +1,11 @@
+c:\users\tyler\documents\visual studio 2012\Projects\Testing\Testing\bin\Release\Testing.exe
+c:\users\tyler\documents\visual studio 2012\Projects\Testing\Testing\bin\Release\Testing.pdb
+c:\users\tyler\documents\visual studio 2012\Projects\Testing\Testing\bin\Release\ClassLibrary2.dll
+c:\users\tyler\documents\visual studio 2012\Projects\Testing\Testing\bin\Release\ClassLibrary2.pdb
+c:\users\tyler\documents\visual studio 2012\Projects\Testing\Testing\bin\Release\ClassLibrary2.xml
+c:\users\tyler\documents\visual studio 2012\Projects\Testing\Testing\obj\Release\Testing.Form1.resources
+c:\users\tyler\documents\visual studio 2012\Projects\Testing\Testing\obj\Release\Testing.Properties.Resources.resources
+c:\users\tyler\documents\visual studio 2012\Projects\Testing\Testing\obj\Release\Testing.csproj.GenerateResource.Cache
+c:\users\tyler\documents\visual studio 2012\Projects\Testing\Testing\obj\Release\Testing.exe
+c:\users\tyler\documents\visual studio 2012\Projects\Testing\Testing\obj\Release\Testing.pdb
+C:\Users\Tyler\Documents\Visual Studio 2012\Projects\Testing\Testing\obj\Release\Testing.csprojResolveAssemblyReference.cache
